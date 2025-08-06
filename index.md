@@ -12,7 +12,7 @@ Joint Vice Chair
 Joint Vice Chair; Secretary  
 [Marc Goblot](https://www.linkedin.com/in/marcgoblot/)
 
-![][image3]
+![A young-looking old man with short hair and sharp eyes][image3]
 
 Treasurer  
 [Desmond Alvares](https://www.linkedin.com/in/desmondalvares/)
