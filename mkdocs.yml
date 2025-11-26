@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: BCS NeurodiverseIT
+site_url: https://neurodiverseit.github.io
+theme:
+  name: material
+  features:
+    - navigation.tabs
+nav:
+  - 'index.md'
+  - 'committee.md'

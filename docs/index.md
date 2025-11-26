@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# BCS NeurodiverseIT
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## About us
 
-## Commands
+This is the community-run website for [BCS](https://www.bcs.org) Specialist Group [NeurodiverseIT](https://www.bcs.org/membership-and-registrations/member-communities/neurodiverseit-specialist-group/). You'll useful content about neurodiversity and the IT profession along with information about the group and how you can take part.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+This group works to help neurodivergent people join and thrive in the IT profession. We welcome those with diagnoses of neurodivergent conditions, those who identify with those conditions, and those with a personal or professional interest in neurodiversity. The group is run for and by neurodivergent people.
 
-## Project layout
+## Contributing to this website
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+This site is a collaborative project to which anyone can offer a contribution. The site is hosted on [GitHub Pages](https://docs.github.com/en/pages), and uses [MkDocs](https://www.mkdocs.org/) and the [Material for MkDocs theme](https://squidfunk.github.io/mkdocs-material/). You can submit amendments, and additions as Git Pull Requests.
