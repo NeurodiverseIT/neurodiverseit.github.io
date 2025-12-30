@@ -2,7 +2,7 @@
 
 Committee members are elected by the NeurodiverseIT membership at regular meetings.
 
-Chair
+Chair  
 [Matthew Bellringer](https://www.linkedin.com/in/matthew-bellringer/)
 
 Vice Chair; Secretary  
@@ -11,7 +11,7 @@ Vice Chair; Secretary
 Treasurer  
 [Desmond Alvares](https://www.linkedin.com/in/desmondalvares/)
 
-Early Careers Officer
+Early Careers Officer  
 [Cheryl Jones](https://www.linkedin.com/in/cheryl-jones-epione-psychotherapy/)
 
 Inclusion Officer  
@@ -32,14 +32,14 @@ Education Liaison
 Committee Member  
 [Wendy Goucher](https://www.linkedin.com/in/wendy-goucher-63b7517/)
 
-Committee Member
+Committee Member  
 [Stephen Wilkinson](https://www.linkedin.com/in/kneeboarder/)
 
-Committee Member
+Committee Member  
 [Nicola Martin](https://www.linkedin.com/in/nicola-louise-martin)
 
-Committee Member
+Committee Member  
 [Antonio Hidalgo-Landa](https://www.linkedin.com/in/antonio-hidalgo-landa-msc-mbcs/)
 
-Committee Member
+Committee Member  
 [Aurora Pakenham-Smith](https://www.linkedin.com/in/laurencejosephsmith/)
