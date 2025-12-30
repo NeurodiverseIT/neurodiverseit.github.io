@@ -39,7 +39,7 @@ Committee Member
 [Nicola Martin](https://www.linkedin.com/in/nicola-louise-martin)
 
 Committee Member
-[Antonio Hidalgo-Landa](https://www.linkedin.com/in/antonio-hidalgo-landa-msc-mbcs?)
+[Antonio Hidalgo-Landa](https://www.linkedin.com/in/antonio-hidalgo-landa-msc-mbcs/)
 
 Committee Member
 [Aurora Pakenham-Smith](https://www.linkedin.com/in/laurencejosephsmith/)
