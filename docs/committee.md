@@ -42,4 +42,4 @@ Committee Member
 [Antonio Hidalgo-Landa](https://www.linkedin.com/in/antonio-hidalgo-landa-msc-mbcs/)
 
 Committee Member  
-[Aurora Pakenham-Smith](https://www.linkedin.com/in/laurencejosephsmith/)
+[Laurence Pakenham-Smith](https://www.linkedin.com/in/laurencejosephsmith/)
