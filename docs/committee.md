@@ -40,7 +40,7 @@ The Public Service Officer is responsible for developing and maintaining connect
 
 #### **Committee Member**  - [Antonio Hidalgo-Landa](https://www.linkedin.com/in/antonio-hidalgo-landa-msc-mbcs/)
 
-#### **Committee Member**  - [Aurora Pakenham-Smith](https://www.linkedin.com/in/laurencejosephsmith/)
+#### **Committee Member**  - [Laurence Pakenham-Smith](https://www.linkedin.com/in/laurenceps/)
 
 ## Joining the committee
 
