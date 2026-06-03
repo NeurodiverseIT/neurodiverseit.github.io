@@ -15,3 +15,32 @@
   height: 100%;
   border: 0;
 }
+
+/* Each event on the listing page is rendered as a distinct card. */
+.md-typeset .event-card {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.3rem;
+  padding: 0.6rem 1rem 0.8rem;
+  margin: 1rem 0;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+}
+
+.md-typeset .event-card > :first-child {
+  margin-top: 0;
+}
+
+.md-typeset .event-card > :last-child {
+  margin-bottom: 0;
+}
+
+/* Tighten the gap between the event title and its meta line. */
+.md-typeset .event-card h3 {
+  margin-bottom: 0;
+}
+
+/* Date / format / co-host meta line under each event title. */
+.md-typeset .event-card .event-meta {
+  margin: 0.1rem 0 0.4rem;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.8rem;
+}
