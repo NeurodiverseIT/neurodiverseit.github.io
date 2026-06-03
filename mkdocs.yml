@@ -11,3 +11,11 @@ nav:
       - 'What is ADHD?': 'adhd.md'
       - 'What is Autism?': 'autism.md'
       - 'What is Dyslexia?': 'dyslexia.md'
+  - 'Events': 'events.md'
+
+# The per-event post pages are reached from the Events listing, not the nav.
+not_in_nav: |
+  events/*.md
+
+extra_css:
+  - stylesheets/extra.css
