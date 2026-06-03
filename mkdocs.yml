@@ -7,3 +7,7 @@ theme:
 nav:
   - 'index.md'
   - 'committee.md'
+  - 'Neurodiversity':
+      - 'What is ADHD?': 'adhd.md'
+      - 'What is Autism?': 'autism.md'
+      - 'What is Dyslexia?': 'dyslexia.md'
